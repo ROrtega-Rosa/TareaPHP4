@@ -1,0 +1,47 @@
+#header{
+
+    background-color: rosybrown;
+    padding: 50px;
+    
+}
+
+.navbar{
+
+    background-color: transparent !important;
+
+}
+
+#titu{
+    font-family: 'Open Sans', sans-serif;
+    color: aliceblue;
+}
+
+p{
+    font-family: 'Oswald', sans-serif;
+}
+.pie{
+    background-color: rosybrown;
+    padding: 50px;
+    color: aliceblue;
+    
+}
+.footer{
+
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2{
+    font-family: 'Lato', sans-serif;
+    padding-top: 10px;
+
+}
+.post{
+    color: aliceblue;
+    text-decoration: none;
+
+}
+form{
+
+    padding: 45px;
+}
+
